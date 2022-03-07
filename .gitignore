@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+# Uneeded Folders
+Practice/
+data-12-2-2-resources/
